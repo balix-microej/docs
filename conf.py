@@ -28,6 +28,7 @@ extensions = [
     'sphinx_copybutton',
     'sphinx_tabs.tabs',
     'sphinx_toolbox.collapse',
+    'breathe',
 ]
 
 sphinx_tabs_valid_builders = ['linkcheck']
